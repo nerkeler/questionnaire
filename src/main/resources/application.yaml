@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://139.196.89.94:5433/db66aa2a8f4d99435db09923b6de41a979nerkeler
+    username: name_1uptpdf
+    password: Memfiredb@337207
+    driver-class-name: org.postgresql.Driver
+
+server:
+  port: 8000
